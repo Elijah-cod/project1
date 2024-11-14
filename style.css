@@ -1,0 +1,9 @@
+img {
+    height: auto;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.container {
+    display: flex;
+}
